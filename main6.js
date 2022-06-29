@@ -1,0 +1,1 @@
+const objSix = {key1: "value1"}
